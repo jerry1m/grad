@@ -1,0 +1,7 @@
+train: train/images  # train images (relative to 'path') 4 images
+val: val/images  # val images (relative to 'path') 4 images
+
+nc: 2
+
+# class names
+names: ['Smoke','Fire']
